@@ -1,0 +1,47 @@
+{
+    "Brevet": {
+      "Français": {
+        "path": "brevet.francais",
+        "emoji": "📘",
+        "start_year": 2015,
+        "bypass_years": [2020],
+        "active": true,
+        "Maintenance": false,
+        "Message": false,
+        "message_content": "⚠️"
+      },
+      "Mathématiques": {
+        "path": "brevet.mathematique",
+        "emoji": "🧮",
+        "start_year": 2015,
+        "bypass_years": [2020],
+        "active": true,
+        "Maintenance": false,
+        "Message": false,
+        "message_content": "⚠️"
+      },
+      "Histoire/Géo/EMC": {
+        "path": "brevet.histoiregeographieemc",
+        "emoji": "🌍",
+        "start_year": 2015,
+        "bypass_years": [2020],
+        "active": true,
+        "Maintenance": false,
+        "Message": false,
+        "message_content": "⚠️"
+      },
+      "Sciences": {
+        "path": "brevet.science",
+        "emoji": "🔬",
+        "start_year": 2017,
+        "bypass_years": [2020],
+        "active": true,
+        "Maintenance": false,
+        "Message": false,
+        "message_content": "⚠️"
+      }
+    },
+    "Bac (*Ajout plus tard*)": {
+    }
+  }
+  
